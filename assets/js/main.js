@@ -20,3 +20,12 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 // 1- proviamo a usare il modulo "%" per vedere se è divisibile per altri numeri
 // 12 % 3 === 0
 // 20 % 5 === 0
+
+// 2- TOOLS:
+/*
+-stampare i numeri da 1 a 100 
+-se il numero è divisibile per 3 stampiamo "fizz"
+-se il numero è divisibile per 5 stampiamo "buzz"
+-se il numero è uguale per entrambi "multipli di 3 e 5" stampiamo "fizzbzz"
+-altrimenti stampo tutti gli altri numeri
+*/
