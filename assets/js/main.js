@@ -32,7 +32,9 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 
 // stampiamo i numeri da 1 a 100
-
+for(let i = 1; i <= 100; i++){
+    
+}
 // numero divisibile sia per 3 che per 5
 
 // fizz se divisibile per 3
