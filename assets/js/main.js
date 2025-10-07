@@ -29,3 +29,14 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 -se il numero è uguale per entrambi "multipli di 3 e 5" stampiamo "fizzbzz"
 -altrimenti stampo tutti gli altri numeri
 */
+
+
+// stampiamo i numeri da 1 a 100
+
+// numero divisibile sia per 3 che per 5
+
+// fizz se divisibile per 3
+
+// fizz se divisibile per 5
+
+// altrimenti altri numeri
